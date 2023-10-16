@@ -6,7 +6,6 @@
 #nav-container {
     float: left;
     width: 100%;
-    position: relative;
 }
 
 #main-nav ul {
@@ -40,3 +39,10 @@
 #onpage {
     background-color: rgb(255, 197, 130);
 }
+
+body {
+    background-color: #113950f8;
+    font-family: 'Raleway', 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: #725e40b7
+  }
