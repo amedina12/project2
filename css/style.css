@@ -18,3 +18,25 @@
     float: left;
 
 }
+
+#main-nav ul li {
+    float: left;
+    position: relative;
+    right: 50%;
+    display: block;
+}
+
+#main-nav ul li a {
+    display: block;
+    padding: 10px 20px;
+    color: #341d0c;
+    text-decoration: none;
+}
+
+#main-nav ul li a:hover {
+    background-color: #937759;
+}
+
+#onpage {
+    background-color: rgb(255, 197, 130);
+}
