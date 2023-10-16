@@ -44,4 +44,57 @@ body {
     background-color: #ffe6d3f8;
     font-family: 'Raleway', 'Times New Roman', Times, serif;
     color: #435329c9
-  }
+}
+
+.content {
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+h2 {
+    text-align: center;
+}
+
+#contact {
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+#contact h2 {
+    font-weight: lighter;
+}
+
+#contact p {
+    display: inline;
+    text-transform: none;
+    font-weight: lighter;
+    text-align: center;
+    margin: 1%;
+}
+
+#summary {
+    text-align: center;
+}
+
+#education ul {
+    text-align: center;
+    padding-left: 0;
+    list-style:none;
+}
+
+#skills ul{
+    text-align: center;
+    list-style: none;
+}
+
+#work {
+    text-align: left;
+}
+
+#projects {
+    text-align: left;
+}
+
+
+
