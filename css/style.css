@@ -92,9 +92,24 @@ h2 {
     text-align: left;
 }
 
+#work p {
+    font-style: italic;
+}
+
 #projects {
     text-align: left;
 }
 
+#projects p {
+    font-style: italic;
+}
 
+#involvment p {
+    font-style: italic;
+}
 
+#achievements ul{
+
+    list-style-type: upper-roman;
+
+}
