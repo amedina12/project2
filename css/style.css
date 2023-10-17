@@ -1,150 +1,143 @@
 #main-nav {
-    background-color: rgb(114, 90, 90);
-    overflow: hidden;
+  background-color: rgb(114, 90, 90);
+  overflow: hidden;
 }
 
 #nav-container {
-    float: left;
-    width: 100%;
+  float: left;
+  width: 100%;
 }
 
 #main-nav ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    position: relative;
-    left: 50%;
-    float: left;
-
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  left: 50%;
+  float: left;
 }
 
 #main-nav ul li {
-    float: left;
-    position: relative;
-    right: 50%;
-    display: block;
+  float: left;
+  position: relative;
+  right: 50%;
+  display: block;
 }
 
 #main-nav ul li a {
-    display: block;
-    padding: 10px 20px;
-    color: #341d0c;
-    text-decoration: none;
+  display: block;
+  padding: 10px 20px;
+  color: #341d0c;
+  text-decoration: none;
 }
 
 #main-nav ul li a:hover {
-    background-color: #937759;
+  background-color: #937759;
 }
 
 #onpage {
-    background-color: rgb(255, 197, 130);
+  background-color: rgb(255, 197, 130);
 }
 
 body {
-    background-color: #ffe6d3f8;
-    font-family: 'Raleway', 'Times New Roman', Times, serif;
-    color: #435329c9
+  background-color: #ffe6d3f8;
+  font-family: 'Raleway', 'Times New Roman', Times, serif;
+  color: #435329c9
 }
 
 .content {
-    max-width: 80%;
-    margin: 0 auto;
+  max-width: 80%;
+  margin: 0 auto;
 }
 
 h2 {
-    text-align: center;
+  text-align: center;
 }
 
 #contact {
-    text-align: center;
-    font-weight: bold;
-    text-transform: uppercase;
+  text-align: center;
+  font-weight: bold;
+  text-transform: uppercase;
 }
 
 #contact h2 {
-    font-weight: lighter;
+  font-weight: lighter;
 }
 
 #contact p {
-    display: inline;
-    text-transform: none;
-    font-weight: lighter;
-    text-align: center;
-    margin: 1%;
+  display: inline;
+  text-transform: none;font-weight: lighter;
+  text-align: center;
+  margin: 1%;
 }
 
 #summary {
-    text-align: center;
+  text-align: center;
 }
 
 #education ul {
-    text-align: center;
-    padding-left: 0;
-    list-style:none;
+  text-align: center;
+  padding-left: 0;
+  list-style:none;
 }
 
 #skills ul{
-    text-align: center;
-    list-style: none;
+  text-align: center;
+  list-style: none;
 }
 
 #work {
-    text-align: left;
+  text-align: left;
 }
 
 #work p {
-    font-style: italic;
+  font-style: italic;
 }
 
 #projects {
-    text-align: left;
+  text-align: left;
 }
 
 #projects p {
-    font-style: italic;
+  font-style: italic;
 }
 
 #involvment p {
-    font-style: italic;
+  font-style: italic;
 }
 
 #achievements ul{
-
-    list-style-type: upper-roman;
-
+  list-style-type: upper-roman;
 }
 
 #section1 {
-    overflow: hidden;
-
+  overflow: hidden;
 }
 
-
 .text-container {
-    text-transform: uppercase;
-    font-size: 2em;
-    padding-top: 10%;
-    width: 30%;
-    float: left;
+  text-transform: uppercase;
+  font-size: 2em;
+  padding-top: 10%;
+  width: 30%;
+  float: left;
 }
   
 
 .image1 {
-    float: right;
-    width: 60%;
-    padding-left: 10%;
-    padding-top: 25%;
-    padding-bottom: 10%;
-    max-width: 100%;
+  float: right;
+  width: 60%;
+  padding-left: 10%;padding-top: 25%;
+  padding-bottom: 10%;
+  max-width: 100%;
 }
 
 #section2 {
-    clear: both;
-    font-size: 1.2em;
+  clear: both;
+  font-size: 1.2em;
 }
 
 #section2 h2 {
-    font-size: 3em;
+  font-size: 3em;
 }
 
 .image4 {
@@ -156,45 +149,44 @@ h2 {
 }
 
 #section3 h2 {
-    display: block;
-    float: center;
-    width: 30%;
-    font-size: 3em;
-    padding-left: 15%;
-    padding-right: 15%;
-    background-color: #ab8e7a;
-    border: 2px solid black;
+  display: block;
+  float: center;
+  width: 30%;
+  font-size: 3em;
+  padding-left: 15%;
+  padding-right: 15%;
+  background-color: #ab8e7a;
+  border: 2px solid black;
 }
 
 #section3 ul li {
-    list-style-type: "- " ;
-    font-size: 1.2em;
+  list-style-type: "- " ;
+  font-size: 1.2em;
 }
 
 .image2 {
-    display: block;
-    float: right;
-    margin: 0 auto;
-    width: 35%;
-    padding-left: 10%
+  display: block;
+  float: right;
+  margin: 0 auto;
+  width: 35%;
+  padding-left: 10%
 }
 
 #section4 h2 {
-    display: block;
-    float: center;
-    font-size: 3em;
+  display: block;
+  float: center;
+  font-size: 3em;
 }
 
 #section4 {
-    display: block;
-    font-size: 1.2em
+  display: block;
+  font-size: 1.2em
 }
 
 .image3 {
-    display: block;
-    float: center;
-    margin: 0 auto;
-    width: 40%;
-
-    border-radius: 15%;
+  display: block;
+  float: center;
+  margin: 0 auto;
+  width: 40%;
+  border-radius: 15%;
 }
