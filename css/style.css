@@ -49,6 +49,11 @@ body {
   max-width: 80%;
   margin: 0 auto;
 }
+#resumeheading, h1 {
+  text-align: center;
+  font-weight: Bold;
+  text-transform: uppercase;
+}
 
 h2 {
   text-align: center;
@@ -120,8 +125,7 @@ h2 {
   padding-top: 10%;
   width: 30%;
   float: left;
-}
-  
+}  
 
 .image1 {
   float: right;
@@ -205,6 +209,7 @@ h2 {
   border: solid rgb(130, 91, 91);
   background: linear-gradient(110deg, #ffffff4d, #ffbaba92, #ffffff75);
 }
+
 .image5 {
   height: 500px;
   width: 350px;
@@ -276,35 +281,33 @@ h2 {
   background-color: #d0cb7b38;
 }
 
-
 #content5 {
-    display: block;
-    float: center;
-    border: solid black;
-    border-radius: 0 0 0 45%;
-    padding: 70px;
-    margin: 40px;
+  display: block;
+  float: center;
+  border: solid black;
+  border-radius: 0 0 0 45%;
+  padding: 70px;
+  margin: 40px;
 }
 #content5 p {
   text-align: center;
 }
 
-
 #content5:hover {
-    background-color: rgb(32, 22, 3);
-    transition: background-color 0.4s;
-    color: rgb(255, 214, 157);
-    border-radius: 0 0 0 45%;
+  background-color: rgb(32, 22, 3);
+  transition: background-color 0.4s;
+  color: rgb(255, 214, 157);
+  border-radius: 0 0 0 45%;
   
 }
 
 iframe {
-    text-align: center;
-    margin: 0 auto;
-    display: block;
-    border: 2px solid black;
-    border-radius: 10px;
-    box-shadow: 0 0 100px rgba(0, 0, 0, 0.72);
-    width: 800px;
-    height: 450px;
+  text-align: center;
+  margin: 0 auto;
+  display: block;
+  border: 2px solid black;
+  border-radius: 10px;
+  box-shadow: 0 0 100px rgba(0, 0, 0, 0.72);
+  width: 800px;
+  height: 450px;
 }
