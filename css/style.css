@@ -113,3 +113,41 @@ h2 {
     list-style-type: upper-roman;
 
 }
+
+#section1 {
+    overflow: hidden;
+
+}
+
+.text-container {
+    text-transform: uppercase;
+    font-size: 2em;
+    padding-top: 10%;
+    width: 30%;
+    float: left;
+}
+  
+
+.image1 {
+    float: right;
+    width: 60%;
+    padding-left: 10%;
+    padding-top: 25%;
+    padding-bottom: 10%;
+    max-width: 100%;
+
+}
+
+#section2 {
+    clear: both;
+    font-size: 1.2em;
+}
+
+.image4 {
+  display: block;
+  float: left;
+  margin: 0 auto;
+  width: 45%;
+  padding-right: 2%;
+
+}
