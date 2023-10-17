@@ -154,7 +154,6 @@ h2 {
 
 #section3 h2 {
   display: block;
-  float: center;
   width: 30%;
   font-size: 3em;
   padding-left: 15%;
@@ -178,7 +177,6 @@ h2 {
 
 #section4 h2 {
   display: block;
-  float: center;
   font-size: 3em;
 }
 
@@ -189,7 +187,6 @@ h2 {
 
 .image3 {
   display: block;
-  float: center;
   margin: 0 auto;
   width: 40%;
   border-radius: 15%;
@@ -232,7 +229,6 @@ h2 {
 
 .image6 {
   display: block;
-  float: center;
   margin: 0 auto;
   border-radius: 0 0 50% 0;
 }
@@ -283,7 +279,6 @@ h2 {
 
 #content5 {
   display: block;
-  float: center;
   border: solid black;
   border-radius: 0 0 0 45%;
   padding: 70px;
