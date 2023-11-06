@@ -93,6 +93,9 @@ h2 {
 
 #work {
   text-align: left;
+}
+
+#work ul {
   list-style: none;
 }
 
@@ -108,12 +111,20 @@ h2 {
   font-style: italic;
 }
 
+#projects ul {
+  list-style: none;
+}
+
 #involvment p {
   font-style: italic;
 }
 
+#involvment ul {
+  list-style: none;
+}
+
 #achievements ul{
-  list-style-type: upper-roman;
+  list-style-type: none;
 }
 
 #section1 {
